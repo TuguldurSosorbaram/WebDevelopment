@@ -1,0 +1,256 @@
+{
+    "1": {
+        "description": "Money heist is good movie",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "ismultiple": "0",
+        "createdat": "2023-01-26",
+        "deadline": "2023-01-27",
+        "answers": [
+            [
+                "Yes",
+                3
+            ],
+            [
+                "No",
+                1
+            ]
+        ],
+        "voted": [
+            "Hulan",
+            "admin"
+        ],
+        "id": 1
+    },
+    "2": {
+        "description": "Movies you like",
+        "options": [
+            "Pulp Fiction",
+            "Titanic",
+            "Interstellar",
+            "Godfather",
+            "The Shawshank Redemption"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-30",
+        "answers": [
+            [
+                "Pulp Fiction",
+                0
+            ],
+            [
+                "Titanic",
+                0
+            ],
+            [
+                "Interstellar",
+                0
+            ],
+            [
+                "Godfather",
+                0
+            ],
+            [
+                "The Shawshank Redemption",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 2
+    },
+    "3": {
+        "description": "asd",
+        "options": [
+            "a",
+            "a",
+            "a",
+            "b"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-02-04",
+        "answers": [
+            [
+                "a",
+                0
+            ],
+            [
+                "a",
+                0
+            ],
+            [
+                "a",
+                0
+            ],
+            [
+                "b",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 3
+    },
+    "4": {
+        "description": "asd",
+        "options": [
+            "a"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-28",
+        "answers": [
+            [
+                "a",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 4
+    },
+    "5": {
+        "description": "asd",
+        "options": [
+            "asd"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-29",
+        "answers": [
+            [
+                "asd",
+                1
+            ]
+        ],
+        "voted": [
+            "admin"
+        ],
+        "id": 5
+    },
+    "6": {
+        "description": "asd",
+        "options": [
+            "asd"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-29",
+        "answers": [
+            [
+                "asd",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 6
+    },
+    "7": {
+        "description": "asd",
+        "options": [
+            "asd"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-29",
+        "answers": [
+            [
+                "asd",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 7
+    },
+    "8": {
+        "description": "asd",
+        "options": [
+            "asd"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-29",
+        "answers": [
+            [
+                "asd",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 8
+    },
+    "9": {
+        "description": "asd",
+        "options": [
+            "asd"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-29",
+        "answers": [
+            [
+                "asd",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 9
+    },
+    "10": {
+        "description": "asd",
+        "options": [
+            "asd"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-29",
+        "answers": [
+            [
+                "asd",
+                1
+            ]
+        ],
+        "voted": [
+            "Hulan"
+        ],
+        "id": 10
+    },
+    "11": {
+        "description": "Movies you like",
+        "options": [
+            "Pulp Fiction",
+            "Titanic",
+            "Interstellar",
+            "Godfather",
+            "The Shawshank Redemption"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-28",
+        "deadline": "2023-01-30",
+        "answers": [
+            [
+                "Pulp Fiction",
+                0
+            ],
+            [
+                "Titanic",
+                0
+            ],
+            [
+                "Interstellar",
+                0
+            ],
+            [
+                "Godfather",
+                0
+            ],
+            [
+                "The Shawshank Redemption",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 11
+    }
+}

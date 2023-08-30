@@ -1,0 +1,25 @@
+{
+    "noexist_uname" : "The username field cannot be empty!",
+    "noexist_eml": "The email field cannot be empty!",
+    "noexist_pw1" : "The password field cannot be empty!",
+    "noexist_pw2" : "The password again field cannot be empty!",
+    "uname_short" : "The username should be atleast 5 characters long.",
+    "pw_short" : "The password should be atleast 8 characters long!",
+    "pw_long" : "The password should be atmost 30 characters long!",
+    "uname_format" : "The username should only contain a-z A-Z 0-9 characters!",
+    "email_format" : "The email format is not correct",
+    "pw_nomatch" : "The passwords are not matching!",
+    "pw_format" : "The password should contain atleast one lowercase, uppercase letter, one number and one special character!",
+    "uname_exists": "The username already exists!",
+    "email_exists": "The email already exists!",
+    "uname_unknown": "Username does not exist!",
+    "pword_bad": "The entered password is not correct!",
+
+    "noexist_desc": "The description field is empty!",
+    "noexist_options": "The options field is empty!",
+    "noexist_ismultiple": "The \"Accept multiple options\" field is empty!",
+    "noexist_deadline": "The deadline field is empty!",
+    "deadline_passed": "The deadline you entered has to be later than today!",
+
+    "vote_empty": "You have to choose from options to submit!"
+}

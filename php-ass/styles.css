@@ -1,0 +1,65 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT','Calibri', 'Trebuchet MS', sans-serif;
+    height: 99%;
+} 
+body{
+    color: black;
+    margin: 3%;
+    height: 94%;
+}
+.pollblock{
+    background-color: rgb(208,146,146);
+    border: 0px solid;
+    width: 20%;
+    height: auto;
+    margin-left: 3%;
+    margin-top: 10px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding: 5px;
+    
+}
+.header{
+    background-color: rgb(164,182,221); 
+    height: 10%;
+    width: 100%;
+}
+.intro{
+    background-color: rgb(164,182,221); 
+    height: 10%;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    width: 60%;
+    height: 100%;
+
+}
+.auth{
+    float: left;
+    width: 20%;
+    height: 100%;
+
+}
+.message{
+    font-size: large;
+    float: left;
+    width: 20%;
+    height: 100%;
+}
+
+.active{
+    background-color: rgb(162,208,192); 
+    height: 40%;
+    display: table;
+    width: 100%;
+}
+.passive {
+    background-color: rgb(162,208,192); 
+    height: 40%;
+    width: 100%;
+    display: table;
+}

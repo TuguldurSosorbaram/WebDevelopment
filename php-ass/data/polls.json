@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": "Have you watched these",
+        "options": [
+            "Breaking Bad",
+            "Game of Thrones",
+            "Rick and Morty"
+        ],
+        "ismultiple": "1",
+        "createdat": "2023-01-20",
+        "deadline": "2023-01-25",
+        "answers": [
+            [
+                "Breaking Bad",
+                2
+            ],
+            [
+                "Game of Thrones",
+                0
+            ],
+            [
+                "Rick and Morty",
+                0
+            ]
+        ],
+        "voted": [
+            "Sutu",
+            "admin"
+        ],
+        "id": 1,
+        "poll_id": 1
+    },
+    "2": {
+        "description": "Do you sleep enough",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "ismultiple": "0",
+        "createdat": "2023-01-29",
+        "deadline": "2023-01-30",
+        "answers": [
+            [
+                "Yes",
+                0
+            ],
+            [
+                "No",
+                0
+            ]
+        ],
+        "voted": [],
+        "id": 2,
+        "poll_id": 2
+    }
+}

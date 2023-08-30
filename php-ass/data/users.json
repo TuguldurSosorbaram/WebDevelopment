@@ -1,0 +1,30 @@
+{
+    "1": {
+        "uname": "admin",
+        "email": "sutu0318@gmail.com",
+        "pword": "$2y$10$aOYcO6TT4ei59hNFwSnA3OU80p1IgGLvwkiJ4fu2mKZD9yoWRK1Pi",
+        "admin": "1",
+        "id": 1
+    },
+    "2": {
+        "uname": "NotAdmin",
+        "email": "sdmin@example.com",
+        "pword": "$2y$10$FSAZB6tK7pnD\/Jx528wzeefwwPsHK7WIB624gvzlmOuuqyAJfsoW.",
+        "admin": "1",
+        "id": 2
+    },
+    "3": {
+        "uname": "Hulan",
+        "email": "hulan@gmail.com",
+        "pword": "$2y$10$VIyYimMrmExIwjFaZ0hVt.HAAqbKvqzHGsfPPfi.cHTXb7NniO41a",
+        "admin": "0",
+        "id": 3
+    },
+    "4": {
+        "uname": "Tuguldur",
+        "email": "zzz@gmail.com",
+        "pword": "$2y$10$br0nX73MNIrt8HdFNp\/Py.RpgFSjvip6tZxyaL5458beDr4mMu2Zy",
+        "admin": "0",
+        "id": 4
+    }
+}
