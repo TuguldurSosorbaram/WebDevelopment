@@ -1,7 +1,7 @@
 PHP assignment
 
 INSTRUCTION to run:
-1. Install any web tool that can run PHP scripts (Xampp)
+1. Install any web tool that can run PHP scripts (for example: Xampp, etc)
 3. Create local host
 2. Run the index.php on your browser
 
